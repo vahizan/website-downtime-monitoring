@@ -1,4 +1,4 @@
-# website-downtime-monitoring
+# website-downtime-monitoring :)
 
 ## Project setup
 ```
